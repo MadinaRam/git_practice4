@@ -7,4 +7,8 @@ public class TestCase003 {
     // now git will not know what to do with this
     // when we merge and conflict will happen
 
+    // awesome coding
+
+    // b25 is the best of the best
+ // this is my final result
 }

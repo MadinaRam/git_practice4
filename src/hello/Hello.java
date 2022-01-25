@@ -8,5 +8,7 @@ public class Hello {
 
         System.out.println("B25 Learning Git and GitHub Last Day");
 
+        System.out.println("B25 is the best!");
+
     }
 }
